@@ -71,9 +71,10 @@ function preloader(){
 
 	Splitting();
 	
-	var number1 = ['❤️', '❤️', '❤️', '❤️','❤️', '❤️','❤️', '❤️','❤️', '❤️'];
-	var number2 = ['💘', '💘','💘','💘','💘','💘','💘','💘','💘','💘','💘',];
 	
+	var number1 = ['Je', 'Je','Je','Je','Je','Je','Je','Je','Je','Je'];
+	var number2 = ['t❤️', 't❤️', 't❤️', 't❤️','t❤️', 't❤️','t❤️', 't❤️','t❤️', 't❤️'];
+
 	var numeral1= '';
 	for (var n = 0; n < number1.length; ++ n){
 		numeral1 += '<span>' + number1[n] + '</span>';

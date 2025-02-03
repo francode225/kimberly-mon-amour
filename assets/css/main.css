@@ -304,7 +304,7 @@ body{
 
 .preloader .numbers span{
     display: block;
-    font-size: 150px;
+    font-size: 100px;
     font-weight: 700;
     opacity: .2;
     letter-spacing: -10px;
